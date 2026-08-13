@@ -3,7 +3,7 @@
 ## Brand Understanding & Creative Process
 - Understanding the Brief & Research - Key
 - Visual Direction & Moodboarding - Key
-- Design Rationale — Optional
+- Design Rationale - Optional
 
 ## Branch 2
 - Node 1
