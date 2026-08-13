@@ -1,9 +1,9 @@
 # Branding
 
-## Branch 1
-- Node 1
-- Node 2
-- Node 3
+## Brand Understanding & Creative Process
+- Understanding the Brief & Research - Key
+- Visual Direction & Moodboarding - Key
+- Design Rationale — Optional
 
 ## Branch 2
 - Node 1
