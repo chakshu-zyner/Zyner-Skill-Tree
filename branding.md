@@ -12,32 +12,33 @@ Learn how to interpret the client's VideoAsk, identify the most important busine
 - https://www.youtube.com/watch?v=TkGxTeVqLVs
 - https://www.youtube.com/watch?v=YSx0AaTUSj0
 **Build**
--
+- TBA
 
 **Quiz**
--
+- TBA
 
 ### Node 2 - Visual Direction & Moodboarding - Key
+Learn how to turn the insights from the client brief and research into a clear visual direction. You’ll learn how to select references with purpose, identify visual patterns and define the overall look and feel of the brand before moving into logo exploration.
 
 **Learn**
 - https://www.youtube.com/watch?v=WXaTuREhtuI
-- 
+- https://www.youtube.com/watch?v=9MOuHiQWFoU
 
 **Build**
--
+- TBA
 
 **Quiz**
--
+- TBA
 
 ### Node 3 - Design Rationale - Optional
 
 **Learn**
--
+- TBA
 
 **Build**
--
+- TBA
 
 **Quiz**
--
+- TBA
 
 </details>
