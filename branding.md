@@ -11,6 +11,7 @@ Learn how to interpret the client's VideoAsk, identify the most important busine
 **Learn**
 - https://www.youtube.com/watch?v=TkGxTeVqLVs
 - https://www.youtube.com/watch?v=YSx0AaTUSj0
+  
 **Build**
 - TBA
 
