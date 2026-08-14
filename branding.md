@@ -32,9 +32,10 @@ Learn how to turn the insights from the client brief and research into a clear v
 - TBA
 
 ### Node 3 - Design Rationale - Optional
+Learn how to explain the thinking behind your design decisions and connect them back to the client’s needs, brand personality, and visual direction. You’ll learn how to build a clear design story so the work feels intentional, considered, and easy for the client to understand.
 
 **Learn**
-- TBA
+- https://www.youtube.com/watch?v=B1rKtQpgo9k&t=265s
 
 **Build**
 - TBA
