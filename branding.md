@@ -2,7 +2,7 @@
 
 
 <details>
-<summary><strong>Branch 1 - Brand Understanding & Creative Process</strong></summary>
+<summary><strong>Branch 01 - Brand Understanding & Creative Process</strong></summary>
 Learn how to turn client information and research into a clear visual direction before starting the design process.
 
 ### Node 1 - Understanding the Brief & Research - Key
@@ -36,6 +36,61 @@ Learn how to explain the thinking behind your design decisions and connect them 
 
 **Learn**
 - https://www.youtube.com/watch?v=B1rKtQpgo9k&t=265s
+
+**Build**
+- TBA
+
+**Quiz**
+- TBA
+
+</details>
+
+<details>
+<summary><strong>Branch 02 - Logo Design</strong></summary>
+Learn how to create logos that are meaningful and built with purpose. This branch covers the thinking behind a strong logo, from understanding the fundamentals to developing concepts, refining the final mark, and applying it correctly across different situations.
+
+### Node 1 - Logo Fundamentals - Compulsory
+Understand what makes a logo effective, memorable, and appropriate. Learn the core principles of simplicity, distinctiveness, scalability, symbolism, typography, and visual balance.
+
+**Learn**
+- https://www.youtube.com/watch?v=-0kt008QsUY
+- Extra Material - https://www.youtube.com/watch?v=OcF1KBnlvTc
+
+**Build**
+- TBA
+
+**Quiz**
+- TBA
+
+### Node 2 - Concept Development - Compulsory
+Learn how to turn brand strategy and ideas into strong logo concepts. Explore how to find the right visual direction, generate meaningful ideas, and avoid creating logos that are simply decorative or generic.
+
+**Learn**
+- https://www.youtube.com/watch?v=Umin1iXhsn0
+
+**Build**
+- TBA
+
+**Quiz**
+- TBA
+
+### Node 3 - Logo Refinement - Compulsory
+Learn how to take a promising concept and develop it into a polished logo. Focus on proportion, spacing, geometry, typography, balance, and making sure every detail has a reason.
+
+**Learn**
+-
+
+**Build**
+- TBA
+
+**Quiz**
+- TBA
+
+### Node 4 - Logo Usage - Compulsory
+Learn how a logo should work in the real world. Understand variations, sizing, clear space, color applications, backgrounds, and how to maintain consistency across different brand touchpoints.
+
+**Learn**
+-
 
 **Build**
 - TBA
