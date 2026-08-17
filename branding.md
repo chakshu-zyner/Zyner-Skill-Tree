@@ -80,7 +80,7 @@ Learn how to turn brand strategy and ideas into strong logo concepts. Explore ho
 Learn how to take a promising concept and develop it into a polished logo. Focus on proportion, spacing, geometry, typography, balance, and making sure every detail has a reason.
 
 **Learn**
-- [Understanding Logo Design](https://www.youtube.com/watch?v=Umin1iXhsn0)
+- [TBA]()
 
 **Build**
 - TBA
