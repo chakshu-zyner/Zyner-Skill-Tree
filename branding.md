@@ -109,7 +109,7 @@ Learn how to choose and build a color and typography system that reflects the br
 
 **Learn**
 
-- [How to Choose The RIGHT Brand Colors? - Will Paterson]([Link](https://www.youtube.com/watch?v=BdJTnYqhaZQ))
+- [How to Choose The RIGHT Brand Colors? - Will Paterson](https://www.youtube.com/watch?v=BdJTnYqhaZQ)
 - [Do you use this colour palette rule? - Abi Connick](https://www.youtube.com/watch?v=UPgmNvVsygk)
 - [Typography Guide - How to Choose Fonts - Kayla](https://www.youtube.com/watch?v=9lZaE9WolBc)
 - [How To Choose The Right FONT For Your Logo -Brand - Will Paterson](https://www.youtube.com/watch?v=j_lsb_CY06Q)
