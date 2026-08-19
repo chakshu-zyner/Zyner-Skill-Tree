@@ -109,41 +109,10 @@ Learn how to choose and build a color and typography system that reflects the br
 
 **Learn**
 
-- [Title](Link)
-- 
-
-https://www.youtube.com/watch?v=BdJTnYqhaZQ
-How to Choose The RIGHT Brand Colors? 🤷‍♂️
-93k views  4 yr ago
-Will Paterson
-Will Paterson
-
-https://www.youtube.com/watch?v=UPgmNvVsygk
-Do you use this colour palette rule?
-54k views  4 yr ago
-Abi Connick
-Abi Connick
-
-
-How to Choose Colors (Easy 3-Step Process)
-1.2m views  5 yr ago
-Flux Academy
-Flux Academy
-
-
-https://www.youtube.com/watch?v=9lZaE9WolBc
-Typography Guide - How to Choose Fonts
-23,030 views  17 May 2023
-Kayla
-Kayla
-
-https://www.youtube.com/watch?v=j_lsb_CY06Q
-How To Choose The Right FONT For Your Logo -Brand❓
-81k views  8 yr ago
-Will Paterson
-Will Paterson
-
-
+- [How to Choose The RIGHT Brand Colors? - Will Paterson]([Link](https://www.youtube.com/watch?v=BdJTnYqhaZQ))
+- [Do you use this colour palette rule? - Abi Connick](https://www.youtube.com/watch?v=UPgmNvVsygk)
+- [Typography Guide - How to Choose Fonts - Kayla](https://www.youtube.com/watch?v=9lZaE9WolBc)
+- [How To Choose The Right FONT For Your Logo -Brand - Will Paterson](https://www.youtube.com/watch?v=j_lsb_CY06Q)
 
 **Build**
 - TBA
