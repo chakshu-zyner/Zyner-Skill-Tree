@@ -109,7 +109,7 @@ Learn how to choose and build a color and typography system that reflects the br
 
 **Learn**
 
-- [How to Choose The RIGHT Brand Colors? - Will Paterson](https://www.youtube.com/watch?v=BdJTnYqhaZQ)
+- [How To Choose The RIGHT Logo Color (Easy Method) - Will Paterson](https://www.youtube.com/watch?v=F-Zw7CbM-ps)
 - [Do you use this colour palette rule? - Abi Connick](https://www.youtube.com/watch?v=UPgmNvVsygk)
 - [Typography Guide - How to Choose Fonts - Kayla](https://www.youtube.com/watch?v=9lZaE9WolBc)
 - [How To Choose The Right FONT For Your Logo -Brand - Will Paterson](https://www.youtube.com/watch?v=j_lsb_CY06Q)
@@ -124,6 +124,9 @@ Learn how to choose and build a color and typography system that reflects the br
 Learn how to develop a consistent style for icons and illustrations that supports the brand identity. Focus on visual consistency, style, proportions, and how these elements work together with the rest of the identity.
 
 **Learn**
+- [Title](Link)
+- [Title](Link)
+- [Title](Link)
 - [Title](Link)
 
 **Build**
