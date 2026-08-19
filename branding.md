@@ -189,7 +189,7 @@ D. It uses technical design terminology to make the presentation sound professio
 <summary><strong>Branch 02 - Logo Design</strong></summary>
 Learn how to create logos that are meaningful and built with purpose. This branch covers the thinking behind a strong logo, from understanding the fundamentals to developing concepts, refining the final mark, and applying it correctly across different situations.
 
-### Node 1 - Logo Fundamentals - Compulsory
+### Node 1 - Logo Fundamentals - Key
 Understand what makes a logo effective, memorable, and appropriate. Learn the core principles of simplicity, distinctiveness, scalability, symbolism, typography, and visual balance.
 
 **Learn**
@@ -250,7 +250,7 @@ D. A meaningful logo guarantees that every customer will understand its exact me
 **Correct Answer:** A
 </details>
 
-### Node 2 - Concept Development - Compulsory
+### Node 2 - Concept Development - Key
 Learn how to turn brand strategy and ideas into strong logo concepts. Explore how to find the right visual direction, generate meaningful ideas, and avoid creating logos that are simply decorative or generic.
 
 **Learn**
@@ -310,7 +310,7 @@ D. Reconsider the concept and explore another interpretation that creates a more
 
 </details>
 
-### Node 3 - Logo Refinement - Compulsory
+### Node 3 - Logo Refinement - Key
 Learn how to take a promising concept and develop it into a polished logo. Focus on proportion, spacing, geometry, typography, balance, and making sure every detail has a reason.
 
 **Learn**
