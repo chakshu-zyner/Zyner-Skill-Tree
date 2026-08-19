@@ -101,22 +101,57 @@ Links: https://type.method.ac/ , [Global Brand Database](https://branddb.wipo.in
 
 
 <details>
-<summary><strong>Branch 03 - Visual Identity</strong></summary>
+<summary><strong>Branch 03 - Visual Identity & Brand Guide</strong></summary>
 Learn how to build a complete visual system around the logo. It covers color, typography, iconography, illustration, and real-world brand applications, with a focus on creating a cohesive identity where every visual element works together consistently.
 
 ### Node 1 - Color & Typography - Key
 Learn how to choose and build a color and typography system that reflects the brand personality, creates clear hierarchy, and stays consistent across different brand touchpoints.
 
 **Learn**
+
 - [Title](Link)
-  
+- 
+
+https://www.youtube.com/watch?v=BdJTnYqhaZQ
+How to Choose The RIGHT Brand Colors? 🤷‍♂️
+93k views  4 yr ago
+Will Paterson
+Will Paterson
+
+https://www.youtube.com/watch?v=UPgmNvVsygk
+Do you use this colour palette rule?
+54k views  4 yr ago
+Abi Connick
+Abi Connick
+
+
+How to Choose Colors (Easy 3-Step Process)
+1.2m views  5 yr ago
+Flux Academy
+Flux Academy
+
+
+https://www.youtube.com/watch?v=9lZaE9WolBc
+Typography Guide - How to Choose Fonts
+23,030 views  17 May 2023
+Kayla
+Kayla
+
+https://www.youtube.com/watch?v=j_lsb_CY06Q
+How To Choose The Right FONT For Your Logo -Brand❓
+81k views  8 yr ago
+Will Paterson
+Will Paterson
+
+
+
 **Build**
 - TBA
 
 **Quiz**
 - TBA
 
-### Node 2 - Iconography & Illustration - Key
+### Node 2 - Brand Guide - Key
 Learn how to develop a consistent style for icons and illustrations that supports the brand identity. Focus on visual consistency, style, proportions, and how these elements work together with the rest of the identity.
 
 **Learn**
@@ -128,17 +163,6 @@ Learn how to develop a consistent style for icons and illustrations that support
 **Quiz**
 - TBA
 
-### Node 3 - Brand Applications - Optional
-Learn how to apply the brand identity across real-world touchpoints such as websites, social media, presentations, stationery, and other relevant applications while maintaining consistency and visual quality.
-
-**Learn**
-- [Title](Link)
-
-**Build**
-- TBA
-
-**Quiz**
-- TBA
 
 </details>
 
