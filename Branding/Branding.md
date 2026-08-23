@@ -474,11 +474,11 @@ You have selected the 3 strongest concepts from your sketches. Now turn each con
 
 **Output:**
 - **3 refined logo directions**
-- **Primary logo** — symbol + wordmark
-- **Symbol / icon** — standalone mark
+- **Primary logo** - symbol + wordmark
+- **Symbol / icon** - standalone mark
 - **Black & white versions**
 - **Small-size / favicon test**
-- **A short explanation for each logo** — concept, meaning and connection to the brand
+- **A short explanation for each logo** - concept, meaning and connection to the brand
 
 > **Why it matters**
 >
