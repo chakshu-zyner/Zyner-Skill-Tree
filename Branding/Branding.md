@@ -644,7 +644,6 @@ Learn how to develop a consistent style for icons and illustrations that support
 - [Brand Guideline Fundamentals in 11 minutes - Jack Watson](https://www.youtube.com/watch?v=DJg4Pl_61B4)
 - [How To Build A Brand Identity Presentation - Jack Watson](https://www.youtube.com/watch?v=9jmOg0i5Jwo&t)
 - Optional [How To Build a Brand Identity System in 2026 (Real Client) - Jack Watson](https://www.youtube.com/watch?v=IAdxjZcFm78)
-- [Title](Link)
 
 <details>
 <summary><strong></strong>Build</strong></summary>
