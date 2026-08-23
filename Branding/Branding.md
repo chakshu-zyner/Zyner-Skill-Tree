@@ -735,7 +735,30 @@ D. Practical specifications, usage rules, and examples that show how the visual 
 
 </details>
 
+<details>
+<summary><strong>Optional Assessment - Complete Branding Project</strong></summary>
+You’ve received a new branding project from a client. Use the provided **client brief and project information** to take the brand from initial understanding to a complete visual identity.
 
+Work independently and make decisions based on the client's requirements, research, and your design judgment. Do not create multiple options simply to show variety. Focus on developing the direction that you believe is **right for the brand**.
+
+**Assessment:**
+
+- **Brand Understanding:** Extract the key information from the brief and define the **Brand Keywords — Do's & Don'ts**.
+- **Visual Direction:** Develop a clear visual direction based on the brand strategy and explain why it is appropriate for the client.
+- **Logo Fundamentals:** Analyze relevant competitor and preferred brand logos to understand the visual landscape, identify patterns, and find opportunities to differentiate.
+- **Concept Development:** Explore ideas through research, brainstorming, and sketching. Develop and select the concept with the strongest potential.
+- **Logo Refinement:** Turn the selected concept into a polished, professional logo. Refine the construction, proportions, typography, spacing, balance, and overall execution.
+- **Color & Typography:** Build a cohesive color palette and typography system that supports the brand personality and works with the logo.
+- **Brand Guide:** Bring the complete identity together into a practical, presentation-ready brand guide.
+
+> **Why it matters**
+>
+> This assessment tests whether you can apply the complete branding process independently and make confident design decisions based on the client's needs. The goal is not to create multiple options, but to develop a strong, intentional identity that solves the client's requirements.
+
+**Goal:** Take a new client from **brief → strategy → visual direction → logo → visual identity → brand guide**, making thoughtful design decisions at every stage.
+
+**Submission:** Complete Figma file + final brand guide + Loom presentation explaining the key design decisions.
+</details>
 
 
 
