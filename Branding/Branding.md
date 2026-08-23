@@ -553,8 +553,38 @@ Learn how to choose and build a color and typography system that reflects the br
 - [Typography Guide - How to Choose Fonts - Kayla](https://www.youtube.com/watch?v=9lZaE9WolBc)
 - [How To Choose The Right FONT For Your Logo -Brand - Will Paterson](https://www.youtube.com/watch?v=j_lsb_CY06Q)
 
-**Build**
-- TBA
+<details>
+<summary><strong></strong>Build</strong></summary>
+Now that you have refined the logo directions, build a **brand board** for Latch that establishes the core color and typography system.
+
+Use the chosen logo direction and the Brand Keywords from the client brief to make design decisions that feel consistent with the brand.
+
+**Create:**
+- Primary color palette
+- Secondary / accent colors
+- Color codes (HEX)
+- Primary typeface
+- Secondary typeface
+- Accent typeface, if needed
+- Typography hierarchy
+- Logo + color combinations
+- Examples showing how the colors and typography work together
+
+**Output:**
+- **3 complete brand boards / brand sheet for each logo direction**
+- Logo
+- Color palette with HEX values
+- Typography system
+- A few simple brand applications showing the system working together
+
+> **Why it matters**
+>
+> Color and typography are not decoration. They strongly influence how a brand is perceived and help create a consistent visual language. A good brand board brings these decisions together so the identity feels intentional and consistent across different touchpoints.
+
+**Goal:** Create a clear **color and typography system** that supports the Latch brand and can be used consistently throughout the rest of the brand identity.
+
+
+</details>
 
 <details>
 <summary><strong></strong>Quiz</strong></summary>
@@ -616,8 +646,41 @@ Learn how to develop a consistent style for icons and illustrations that support
 - Optional [How To Build a Brand Identity System in 2026 (Real Client) - Jack Watson](https://www.youtube.com/watch?v=IAdxjZcFm78)
 - [Title](Link)
 
-**Build**
-- TBA
+<details>
+<summary><strong></strong>Build</strong></summary>
+
+You now have **3 refined logo directions** and **3 brand sheets** exploring different color and typography combinations. Review all 3 and select the combination you believe is the strongest fit for Latch.
+
+**Select:**
+- **1 logo direction** from the 3 logo options
+- **1 color palette** from the 3 brand sheets
+- **1 typography system** from the 3 brand sheets
+
+Then bring the selected elements together into a complete **brand guide** for Latch.
+
+**Brand Guide should include:**
+- Brand overview and personality
+- Final logo and logo variations
+- Logo clear space and minimum size
+- Correct and incorrect logo usage
+- Final color palette with HEX values
+- Typography system and hierarchy
+- Supporting visual elements
+- Brand applications / mockups
+- Overall brand usage examples
+
+**Output:**
+- **1 complete, presentation-ready brand guide**
+- A clear and consistent visual system
+- Practical guidelines that another designer can follow
+
+> **Why it matters**
+>
+> A brand guide brings all the decisions made throughout the branding process into one **clear, usable system**. It ensures the brand can be applied consistently across different touchpoints and by different designers.
+
+**Goal:** Turn your explorations into a **complete, professional brand guide for Latch** that clearly communicates how the brand should look and be used.
+
+</details>
 
 <details>
 <summary><strong></strong>Quiz</strong></summary>
