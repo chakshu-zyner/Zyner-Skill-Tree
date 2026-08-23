@@ -12,9 +12,29 @@ Learn how to interpret the client's VideoAsk, identify the most important busine
 - [Extract WINNING Ideas From a Design Brief - Gareth David Studio](https://www.youtube.com/watch?v=TkGxTeVqLVs)
 - [ACE Logo Design Research With These Techniques - Gareth David Studio](https://www.youtube.com/watch?v=YSx0AaTUSj0)
   
-**Build**
-- TBA
+<details>
+<summary><strong></strong>Build</strong></summary>
 
+You’ve received a new branding project from Latch. Review the [Latch Video Ask](./LatchVideoAsk.md) transcript and the [Task Kick Off Call](./TaskKickOffCall.md) transcript. Extract the information that will guide the branding process. Focus especially on identifying **Brand Keywords**, as these define what the brand should communicate and what it should avoid.
+
+**Extract:**
+
+- Company / Product
+- Problem they solve
+- ICP
+- Competitors
+- **Brand Keywords — Do's:** Enterprise, Professional, Trustworthy, Technical, Mature
+- **Brand Keywords — Don'ts:** Playful, Casual, Loud, Trendy, etc.
+- Brands they like
+- Style / Vibe preferences
+
+
+> **Why it matters**
+>
+> **Brand Keywords are the foundation for your design decisions.** They help you judge whether a logo, color, typography, visual direction, or brand application is right for the client. Every major design decision should connect back to these keywords.
+
+**Goal:** Turn the client's VideoAsk into a clear set of **design direction and boundaries** that can be used throughout the entire branding project.
+</details>
 
 <details>
 <summary><strong></strong>Quiz</strong></summary>
@@ -74,8 +94,33 @@ Learn how to turn the insights from the client brief and research into a clear v
 - [Stylescapes - What Is It & How To Create One - Flux Academy](https://www.youtube.com/watch?v=9MOuHiQWFoU)
 - [The Stylescape Framework Every Brand Designer Should Know - Yanis Xavier](https://www.youtube.com/watch?v=56qaOPNuAJI)
 
-**Build**
-- TBA
+<details>
+<summary><strong></strong>Build</strong></summary>
+
+Now that you have extracted the key information and **Brand Keywords** from the Latch client brief, use those insights to explore the visual direction of the brand.
+
+Create **3 distinct stylescapes** that explore different visual territories while staying aligned with the client's requirements and Brand Keywords.
+
+**Each stylescape should:**
+- Reflect the brand's **Do's and Don'ts**
+- Explore a distinct visual direction
+- Use references with a clear purpose
+- Show relevant typography, color, imagery, graphic elements, shapes, textures, etc.
+- Communicate a clear overall **look and feel**
+- Avoid simply collecting visually attractive references
+
+**Output:**
+- **Stylescape 01**
+- **Stylescape 02**
+- **Stylescape 03**
+- A short description for each stylescape explaining the **visual direction and why it fits the brand**
+
+> **Why it matters**
+>
+> A stylescape turns abstract brand keywords into a tangible visual direction. Exploring multiple territories helps you compare different possibilities before committing to a direction for the logo and brand identity.
+
+**Goal:** Explore **3 strong and distinct visual directions** for Latch and identify which direction has the strongest potential for the branding.
+</details>
 
 <details>
 <summary><strong></strong>Quiz</strong></summary>
@@ -131,8 +176,26 @@ Learn how to explain the thinking behind your design decisions and connect them 
 **Learn**
 - [Advice for explaining design rationale - femke.design](https://youtu.be/B1rKtQpgo9k?si=IBnt9efXOkBf6itk)
 
-**Build**
-- TBA
+<details>
+<summary><strong></strong>Build</strong></summary>
+
+You have created 3 distinct stylescapes for Latch. Now prepare a short rationale for each direction so they can be presented clearly to the client.
+
+For each stylescape, explain:
+
+- **Direction:** What is the overall visual direction?
+- **Concept:** What idea or feeling does it communicate?
+- **Brand Fit:** How does it connect to the client's Brand Keywords and requirements?
+- **Visual Choices:** Why were the key references, colors, typography, imagery, shapes, or other elements selected?
+
+Keep the rationale clear and concise. The goal is to help the client understand the thinking behind each direction without over-explaining the design.
+
+> **Why it matters**
+>
+> A strong presentation doesn't just show the client what the design looks like. It explains **why each direction was created and how it connects to their brand**.
+
+**Goal:** Present all 3 stylescapes as clear, intentional visual directions that the client can understand, compare, and give feedback on.
+</details>
 
 <details>
 <summary><strong></strong>Quiz</strong></summary>
@@ -195,11 +258,51 @@ Understand what makes a logo effective, memorable, and appropriate. Learn the co
 **Learn**
 
 - [The Psychology of Logo Design: Gestalt Theory - Canva](https://www.youtube.com/watch?v=6sG6cLiq5M0)
-- [The NEW Logo Design Knowledge You Need In 2026! - Satori Graphics](https://www.youtube.com/watch?v=-0kt008QsUY)
+- [What Makes a PERFECT Logo Design? - Gareth David Studio](https://www.youtube.com/watch?v=L3bAHqK6X8M)
 - [Visual Identities: More Than Just A Logo | Sagi Haviv - TEDx Talks](https://www.youtube.com/watch?v=OcF1KBnlvTc)
 
-**Build**
-- TBA
+
+<details>
+<summary><strong></strong>Build</strong></summary>
+Before creating a logo for Latch, analyze existing logos to understand what makes them effective and appropriate for the brand.
+
+Review:
+
+- **Competitor logos** identified in the client brief
+- **Logos / brands the client likes**
+- A few additional logos you consider relevant to the category
+
+For each logo, analyze:
+
+- **Simplicity:** Is the idea clear and easy to recognize?
+- **Distinctiveness:** What makes it different or memorable?
+- **Relevance:** Does it feel appropriate for the brand and audience?
+- **Symbolism:** What idea or meaning is communicated?
+- **Visual Balance:** How do the shapes, proportions and composition work together?
+- **Typography:** How does the type support the brand?
+- **Scalability:** Does it work at different sizes?
+
+Then compare the logos and identify:
+
+- What visual patterns are common across the category
+- What competitors are doing well
+- What feels overused or generic
+- What opportunities exist to create something more distinctive
+- What characteristics from the client's preferred brands could be relevant to Latch
+
+**Output:**
+- Competitor logo analysis
+- Client-preferred logo analysis
+- Key observations and patterns
+- **Logo Design Considerations:** 4–7 points that should guide your own logo exploration
+
+> **Why it matters**
+>
+> Strong logo design starts with understanding the visual landscape. Analyzing competitor logos shows you what the category already looks like, while studying the client's preferred brands helps you understand their visual taste. Together, they help you identify what to follow, what to avoid, and where there is an opportunity to be distinctive.
+
+**Goal:** Build a clear understanding of the **visual landscape and opportunities** before developing your own logo concepts.
+
+</details>
 
 <details>
 <summary><strong></strong>Quiz</strong></summary>
@@ -254,11 +357,40 @@ D. A meaningful logo guarantees that every customer will understand its exact me
 Learn how to turn brand strategy and ideas into strong logo concepts. Explore how to find the right visual direction, generate meaningful ideas, and avoid creating logos that are simply decorative or generic.
 
 **Learn**
+- [Turn Logo Ideas Into REALITY With Sketching - Gareth David Studio](https://www.youtube.com/watch?v=izkPPyzA8rw)
 - [10 MIND BLOWING Logo Design Tips - Will Paterson](https://www.youtube.com/watch?v=gW5IpIUmOr8)
 - [Logo Design Process: Creating a REAL Client’s Logo from Scratch - Will Paterson](https://www.youtube.com/watch?v=Umin1iXhsn0)
 
-**Build**
-- TBA
+
+<details>
+<summary><strong></strong>Build</strong></summary>
+### Build — Latch: Logo Concept Development
+
+You have created 3 stylescapes for Latch. Review them alongside the client brief, Brand Keywords, and your logo research. **Choose the stylescape you believe is the strongest fit for the brand** and use it as the visual foundation for your logo exploration.
+
+Now explore different ideas through sketching before moving into digital execution.
+
+**Process:**
+- Select the strongest stylescape
+- Identify the key ideas the logo should communicate
+- Brainstorm concepts, associations, symbols, metaphors, and visual forms
+- Sketch multiple ideas quickly
+- Explore different approaches and variations
+- Select the strongest concept to take into refinement
+
+**Output:**
+- Selected stylescape with a short reason for choosing it
+- Initial idea exploration
+- **4–10 logo sketches**
+- **3–5 developed sketch concepts**
+- 3 selected concepts for digital refinement
+
+> **Why it matters**
+>
+> Strong logo concepts come from exploration, not from trying to create the perfect logo immediately. Sketching allows you to generate and test ideas quickly, explore different possibilities, and find a stronger concept before spending time on digital execution.
+
+**Goal:** Explore a wide range of ideas and arrive at a **strong, meaningful logo concept ready for digital refinement**.
+</details>
 
 <details>
 <summary><strong></strong>Quiz</strong></summary>
@@ -323,8 +455,37 @@ Learn how to take a promising concept and develop it into a polished logo. Focus
 
 Links: https://type.method.ac/ , [Global Brand Database](https://branddb.wipo.int/en/similarlogo?strategy=concept&sort=score%20desc&start=0&rows=60&asStructure=%7B%22boolean%22:%22AND%22,%22bricks%22:%5B%5D%7D&_=1787038977471)
 
-**Build**
-- TBA
+<details>
+<summary><strong></strong>Build</strong></summary>
+
+You have selected the 3 strongest concepts from your sketches. Now turn each concept into a polished, professional logo while keeping the original idea and intent intact.
+
+**Process:**
+- Select your 3 strongest concepts from the sketches
+- Recreate each concept digitally
+- Refine shapes and proportions
+- Establish consistent geometry
+- Refine negative space
+- Adjust spacing and alignment
+- Refine typography and letterforms.
+- Check visual balance and optical alignment
+- Test each logo at different sizes
+- Make final detail and polish adjustments
+
+**Output:**
+- **3 refined logo directions**
+- **Primary logo** — symbol + wordmark
+- **Symbol / icon** — standalone mark
+- **Black & white versions**
+- **Small-size / favicon test**
+- **A short explanation for each logo** — concept, meaning and connection to the brand
+
+> **Why it matters**
+>
+> A strong concept can still become a weak logo if the execution is not carefully refined. Professional logo design comes from paying attention to proportion, spacing, balance, consistency, and small details that make the final mark feel intentional and polished. Being able to explain the thinking behind each logo also helps communicate the value of the design to the client.
+
+**Goal:** Turn your 3 strongest concepts into **clean, balanced, distinctive, and presentation-ready logo directions**, each supported by a clear design rationale.
+</details>
 
 <details>
 <summary><strong></strong>Quiz</strong></summary>
