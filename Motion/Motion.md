@@ -69,6 +69,13 @@ Learn how to research and select references that establish the visual direction 
 
 <details>
 <summary><strong>Branch 02 - Storyboard & Style Frames</strong></summary>
+  
+### Prerequisite - Animation Fundamentals - Key
+
+Before starting the Storyboard & Style Frames branch, learn the basic principles of animation that designers need to understand when designing for motion. This will help you make better decisions around timing, spacing, movement, transitions, rhythm, and visual hierarchy when planning and designing each shot.
+
+- [10 Motion Design Principles Every Animator Needs - Joshua Craigie](https://www.youtube.com/watch?v=Cz-GcIITNrs)
+- [Animation Basics in 14 Minutes (6 Big ideas for beginners) - Alex Grigg](https://www.youtube.com/watch?v=pF--YKCCUMw)
 
 ### Node 1 - Storyboard - Key
 
