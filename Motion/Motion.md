@@ -1,4 +1,4 @@
-# Motion Graphic
+# Motion Design
 
 <details>
 <summary><strong>Branch 01 - Concept & Visual Direction</strong></summary>
